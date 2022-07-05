@@ -2,6 +2,8 @@
 # This file contains configuration flags to customize your site
 #
 
+remote_theme: amitmerchant/reverie
+
 # Name of your site (displayed in the header)
 name: Personal Website
 
