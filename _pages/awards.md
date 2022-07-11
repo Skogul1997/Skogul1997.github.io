@@ -8,7 +8,7 @@ title: Awards
 *Semesters 1 - 7*\
 Achieving a GPA more than or equal to 3.80 for a sememester.
 
-**Wimalasurendra Award**
+**Wimalasurendra Award**\
 *Semester 5*\
 Awarded for the B. Sc. Engineering student who obtains the highest GPA for semester 5.
 
