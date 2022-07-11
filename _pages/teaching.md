@@ -8,7 +8,7 @@ title: Teaching
 
 **CS1033 - Programming Fundamentals**\
 University of Moratuwa - Fall 2022\
-Lecturers - 
+Lecturers - Prof. Sanath Jayasena and Dr. Gayashan Amarasinghe
 
 **CS2022 - Data Structures and Algorithms**\
 University of Moratuwa - Spring 2022\
