@@ -6,14 +6,14 @@ title: Teaching
 
 # Teaching Assistant
 
-**CS1033 - Programming Fundamentals**\
-University of Moratuwa - Fall 2022\
-Lecturers - Prof. Sanath Jayasena and Dr. Gayashan Amarasinghe
+- **CS1033 - Programming Fundamentals**
+  - University of Moratuwa - Fall 2022
+  - Lecturers - Prof. Sanath Jayasena and Dr. Gayashan Amarasinghe
 
-**CS2022 - Data Structures and Algorithms**\
-University of Moratuwa - Spring 2022\
-Lecturer - Dr. Uthayasanker Thayasivam
+- **CS2022 - Data Structures and Algorithms**
+  - University of Moratuwa - Spring 2022
+  - Lecturer - Dr. Uthayasanker Thayasivam
 
-**CS2023 - Data Structures and Algorithms**\
-University of Moratuwa - Fall 2022\
-Lecturers - Dr. Uthayasanker Thayasivam and Dr. Nisansa De Silva
+- **CS2023 - Data Structures and Algorithms**
+  - University of Moratuwa - Fall 2022
+  - Lecturers - Dr. Uthayasanker Thayasivam and Dr. Nisansa De Silva
