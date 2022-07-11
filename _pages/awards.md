@@ -4,22 +4,22 @@ permalink: /awards/
 title: Awards
 ---
 
-**Dean's Honor List**\
-*Semesters 1 - 7*\
-Achieving a GPA more than or equal to 3.80 for a sememester.
+- **Dean's Honor List**
+  - Awarded in - *Semesters 1 - 7*
+  - Achieving a GPA more than or equal to 3.80 for a sememester.
 
-**Wimalasurendra Award**\
-*Semester 5*\
-Awarded for the B. Sc. Engineering student who obtains the highest GPA for semester 5.
+- **Wimalasurendra Award**
+  - Awarded in - *Semester 5*
+  - Awarded for the B. Sc. Engineering student who obtains the highest GPA for semester 5.
 
-**Mahapola Higher Education Merit Scholarship**\
-*2017 - 2021*\
-For outstanding performance in G. C. E. A/L Examination.
+- **Mahapola Higher Education Merit Scholarship**
+  - Awarded in - *2017 - 2021*
+  - For outstanding performance in G. C. E. A/L Examination.
 
-**Brainstorm**\
-*2019*\
-Finalist
+- **Brainstorm**
+  - Participated in - *2019*
+  - Finalist
 
-**UoJ Coders V1.0**\
-*2019*\
-Ranked 10th among 200+ from all over the country.
+- **UoJ Coders V1.0**
+  - Participated in - *2019*
+  - Ranked 10th among 200+ from all over the country.
